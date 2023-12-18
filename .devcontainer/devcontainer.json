@@ -17,7 +17,6 @@
         "vscode": {
             "extensions": [
                 "DavidAnson.vscode-markdownlint",
-                "GitHub.copilot",
                 "GitHub.copilot-chat",
                 "ms-azuretools.vscode-docker",
                 "redhat.vscode-yaml",
